@@ -1,0 +1,4 @@
+安装完成后
+license_info.json 覆盖到 C:\ProgramData\Acunetix\shared\license\license_info.json
+wvsc.exe 覆盖到 C:\Program Files (x86)\Acunetix\13.0.200205121\wvsc.exe
+重启
